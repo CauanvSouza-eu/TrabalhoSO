@@ -673,15 +673,6 @@ void gerarRelatorio() {
         cout << "Nenhum bloco ativo no momento.\n";
     }
 
-    cout << "\n4. Interpretacao academica\n";
-    cout << "O programa consulta informacoes reais de memoria fornecidas pelo Windows.\n";
-    cout << "Tambem realiza alocacoes reais dentro do proprio espaco de enderecamento.\n";
-    cout << "A alocacao fisica final continua sendo controlada pelo kernel do sistema operacional.\n";
-    cout << "Por seguranca, o programa nao interfere diretamente na memoria de outros processos.\n";
-
-    definirCor(COR_TITULO);
-    cout << "\n===========================================================\n";
-    resetarCor();
 }
 
 void exibirBarraUso(int percentual, int largura) {
