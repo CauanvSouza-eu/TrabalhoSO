@@ -85,6 +85,18 @@ Após compilar, execute:
 * Monitoramento de recursos.
 
 ---
+## Pequenas correções
+
+Apos feedback do professor adicionamos as variaveis que especificam o tamanho em MB dos blocos e da quantidade máxima limete de memória.
+Sendo elas as variáveis: 
+
+```
+LIMITE_MB_POR_BLOCO
+```
+```
+LIMITE_TOTAL_MB
+```
+---
 
 ## Desenvolvedores
 
